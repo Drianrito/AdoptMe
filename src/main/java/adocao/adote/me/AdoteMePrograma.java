@@ -26,7 +26,6 @@ public class AdoteMePrograma {
                                          5.Pesquisar Tutor
                                          6.Adotar Animal
                                          7.Animais adotados
-                                         8.Sair do Programa8.Sair do Programa8.Sair do Programa8.Sair do Programa
                                          8.Sair do Programa"""
 
 
